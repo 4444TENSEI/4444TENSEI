@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Yokaze
+## 👋 Greetings! I'm Yokaze
 
 #### I am a beginner in web development
 
