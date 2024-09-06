@@ -1,9 +1,12 @@
 ## Hi there 👋, my name is Yokaze
+
 #### I am a beginner in web development
 
-I'm constantly learning from web or open source projects, I love the front end, and I also love the Go and rust languages and I'll learn them in depth, and I hope to be a really good full stack developer one day
+I'm constantly learning from the Internet and open source projects, I love the front end, I also love the Go/python/rust language, I will learn them in depth and hope to become a really good full stack developer one day
 
-Skills: Vue / JS / HTML / CSS
+![](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN/img/background/github/banner-1.webp)
+
+Skills: Vue / JS / Go / Python
 
 - 🔭 I’m currently working on finding a suitable web development internship in Shenzhen 
 - 🌱 I’m currently learning Web development related knowledge 
