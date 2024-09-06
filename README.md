@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Yokaze
 #### I am a beginner in web development
-![I am a beginner in web development](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN/img/background/LS-3.jpg)
+![I am a beginner in web development](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN/img/background/LS-3.jpg =740x260)
 
 I'm constantly learning from web or open source projects, I love the front end, and I also love the Go and rust languages and I'll learn them in depth, and I hope to be a really good full stack developer one day
 
