@@ -1,6 +1,6 @@
 ## 👋 Greetings! I'm Yokaze
 
-#### I am a beginner in web development
+#### A beginner in web development
 
 I'm constantly learning from the Internet and open source projects, I love the front end, I also love the Go/python/rust language, I will learn them in depth and hope to become a really good full stack developer one day
 
