@@ -148,6 +148,4 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=4444TENSEI&show_icons=true&theme=tokyonight" alt="4444TENSEI" />
-<br/>
-<img src="https://count.getloli.com/get/@4444TENSEI?theme=rule34" alt="4444TENSEI" />
 </p>
