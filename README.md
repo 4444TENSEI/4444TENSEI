@@ -145,6 +145,9 @@
 [![QQ](https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/qq.webp)
 [![微信](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/wechat.webp)
 
-![4444TENSEI's GitHub stats](https://github-readme-stats.vercel.app/api?username=4444TENSEI&show_icons=true&theme=tokyonight)
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=4444TENSEI&show_icons=true&theme=tokyonight" alt="4444TENSEI" />
+<br/>
 <img src="https://count.getloli.com/get/@4444TENSEI?theme=rule34" alt="4444TENSEI" />
+</p>
