@@ -1,4 +1,4 @@
-> # Hey there! 👋
+> # 👋Hey there!
 
 <p align="center">
 <img src="https://count.getloli.com/get/@4444TENSEI?theme=gelbooru" alt="4444TENSEI" />
