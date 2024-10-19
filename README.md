@@ -4,18 +4,20 @@
 <img src="https://count.getloli.com/get/@4444TENSEI?theme=gelbooru" alt="4444TENSEI" />
 </p>
 
-> ## 😺关于我 / Yokaze
 
-**Web全栈开发**，对于APP和桌面程序也感兴趣，菜，玩。
+> ## 😺关于我
 
-- 时不时喜欢用Python写点小玩具（定时脚本），偶尔玩玩Burp...
+**Web全栈开发**，对制作APP和桌面应用也感兴趣。
+
+- 喜欢用Vue + Go作为项目开发组合
+- 喜欢现代化的框架、语言，热爱开源社区。
+- 时不时写点云函数定时脚本（小玩具），偶尔玩玩Burp...
 - 目前热衷于封装和开源一些便捷的工具库/SDK。
-- 我喜欢写博客记录思考的过程，喜欢现代化的框架、语言，且热爱开源社区。
-- 正在学习日语，目前N3水平，喜欢看动漫。
+- 正在学习日语，目前N3水平，看动漫。
 
 > ## 🪶技术栈
 
-#### *前端*
+- #### 前端
 
 <div id="language-web" style="display: flex; align-items: start">
   <img
@@ -36,7 +38,7 @@
 </div>
 <div id="web-framework" style="display: flex; align-items: start">
   <img
-    src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
+    src="https://img.shields.io/badge/nuxt%20js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
@@ -45,24 +47,21 @@
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
-  />
-  <img
-    src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white"
+    src="https://img.shields.io/badge/Vite-826EF8?style=for-the-badge&logo=vite&logoColor=54B0F5"
   />
 </div>
 
-#### *后端*
+- #### 后端
 
 <div id="language-backend" style="display: flex; align-items: start">
   <img
     src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+    src="https://img.shields.io/badge/Python-FADC5A?style=for-the-badge&logo=python&logoColor=blue"
   />
   <img
-    src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    src="https://img.shields.io/badge/Node%20js-64A05A?style=for-the-badge&logo=nodedotjs&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
@@ -75,18 +74,18 @@
     src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    src="https://img.shields.io/badge/MongoDB-4B8961?style=for-the-badge&logo=mongodb&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
   />
 </div>
 
-#### *服务器*
+- #### 服务器
 
 <div id="server" style="display: flex; align-items: start">
   <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+    src="https://img.shields.io/badge/Linux-F0B932?style=for-the-badge&logo=linux&logoColor=black"
   />
   <img
     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
@@ -105,7 +104,7 @@
   />
 </div>
 
-#### *工具*
+- #### 工具
 
 <div id="tool-code" style="display: flex; align-items: start">
   <img
@@ -123,9 +122,18 @@
   <img
     src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
   />
+  <img
+    src="https://img.shields.io/badge/PyCharm-1ED28C.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/IntelliJ_IDEA-E63C50.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+  />
 </div>
 
-#### *业余*
+- #### 业余
 
 <div id="tool-sys" style="display: flex; align-items: start">
   <img
@@ -139,11 +147,12 @@
   />
 </div>
 
+
 > ## :coffee:联络
 
-[![邮件](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2479757568@qq.com)
-[![QQ](https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/qq.webp)
-[![微信](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/wechat.webp)
+[![邮件](https://img.shields.io/badge/Mail-199BE1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2479757568@qq.com)
+[![QQ](https://img.shields.io/badge/QQ-EA1E28?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/qq.webp)
+[![微信](https://img.shields.io/badge/WeChat-1CD56C?style=for-the-badge&logo=wechat&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/wechat.webp)
 
 
 <p align="center">
