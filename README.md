@@ -4,7 +4,7 @@
 <img src="https://count.getloli.com/get/@4444TENSEI?theme=gelbooru" alt="4444TENSEI" />
 </p>
 
-> ## 😺关于我/Yokaze
+> ## 😺关于我 / Yokaze
 
 **Web全栈开发**，对于APP和桌面程序也感兴趣，菜，玩。
 
@@ -112,7 +112,7 @@
     src="https://img.shields.io/badge/VSCode-23a8f2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
   <img
-    src=" https://img.shields.io/badge/Arduino-0ca1a6?style=for-the-badge&logo=Arduino&logoColor=white"
+    src="https://img.shields.io/badge/Arduino-0ca1a6?style=for-the-badge&logo=Arduino&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/burpsuite-423cca?style=for-the-badge&logo=burpsuite&logoColor=white"
