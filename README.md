@@ -21,22 +21,14 @@
 
 <div id="language-web" style="display: flex; align-items: start">
   <img
-    src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-  />
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   />
   <img
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/CSS3-1ea5d7?style=for-the-badge&logo=css3&logoColor=white"
+    src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
   />
-</div>
-<div id="web-framework" style="display: flex; align-items: start">
   <img
     src="https://img.shields.io/badge/nuxt%20js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
   />
@@ -45,9 +37,6 @@
   />
   <img
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Vite-826EF8?style=for-the-badge&logo=vite&logoColor=54B0F5"
   />
 </div>
 
@@ -79,23 +68,6 @@
   <img
     src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
   />
-</div>
-
-- #### 服务器
-
-<div id="server" style="display: flex; align-items: start">
-  <img
-    src="https://img.shields.io/badge/Linux-F0B932?style=for-the-badge&logo=linux&logoColor=black"
-  />
-  <img
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=whites"
-  />
-  <img
-    src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
-  />
   <img
     src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
   />
@@ -104,11 +76,37 @@
   />
 </div>
 
+- #### 系统
+
+<div id="server" style="display: flex; align-items: start">
+  <img
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=whites"
+  />
+  <img
+    src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+  />
+</div>
+
 - #### 工具
 
 <div id="tool-code" style="display: flex; align-items: start">
   <img
     src="https://img.shields.io/badge/VSCode-23a8f2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/PyCharm-1ED28C.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/IntelliJ_IDEA-E63C50.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Arduino-0ca1a6?style=for-the-badge&logo=Arduino&logoColor=white"
@@ -120,16 +118,10 @@
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/PyCharm-1ED28C.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/IntelliJ_IDEA-E63C50.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+    src="https://img.shields.io/badge/Vite-826EF8?style=for-the-badge&logo=vite&logoColor=54B0F5"
   />
 </div>
 
@@ -138,6 +130,9 @@
 <div id="tool-sys" style="display: flex; align-items: start">
   <img
     src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
