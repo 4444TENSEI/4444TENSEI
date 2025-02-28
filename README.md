@@ -9,17 +9,23 @@
 
 **Web全栈开发**。
 
-- 常写 Go / Python / Vue / PHP
+- 常写 Vue / Flutter / Go / Python / PHP
 - 喜欢现代化的框架、语言，热爱开源社区。
-- 时不时写点云函数定时脚本（小玩具），偶尔玩玩Burp...
-- 目前热衷于封装和开源一些便捷的工具库/SDK。
-- 日本語話せます，今までN2レベル。
+- 时不时写点云函数定时脚本，偶尔玩玩Burp...
+- 目前热衷于封装和开源一些便捷的工具库 / SDK。
+- 日本語が話せて、今はN2レベルです。
 
 > ## 🪶技术栈
 
-- #### 前端
+- ### 前端
 
 <div id="language-web" style="display: flex; align-items: start">
+  <img
+    src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+  />
+  <img
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+  />
   <img
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   />
@@ -27,20 +33,24 @@
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-  />
-  <img
-    src="https://img.shields.io/badge/nuxt%20js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    src="https://img.shields.io/badge/Uno_CSS-000000?style=for-the-badge&logo=unocss&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
+  <img
+    src="https://img.shields.io/badge/nuxt%20js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white"
+  />
 </div>
 
-- #### 后端
+
+- ### 后端
 
 <div id="language-backend" style="display: flex; align-items: start">
   <img
@@ -48,6 +58,9 @@
   />
   <img
     src="https://img.shields.io/badge/Python-FADC5A?style=for-the-badge&logo=python&logoColor=blue"
+  />
+  <img
+    src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Node%20js-64A05A?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -76,7 +89,8 @@
   />
 </div>
 
-- #### 系统
+
+- ### 系统
 
 <div id="server" style="display: flex; align-items: start">
   <img
@@ -89,14 +103,15 @@
     src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=win&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
   />
 </div>
 
-- #### 工具
+
+- ### 工具
 
 <div id="tool-code" style="display: flex; align-items: start">
   <img
@@ -125,7 +140,7 @@
   />
 </div>
 
-- #### 业余
+- ### 业余
 
 <div id="tool-sys" style="display: flex; align-items: start">
   <img
@@ -145,7 +160,7 @@
 
 > ## :coffee:联络
 
-[![邮件](https://img.shields.io/badge/Mail-199BE1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2479757568@qq.com)
+[![邮件](https://img.shields.io/badge/Mail-199BE1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokaze@unmei.fun)
 [![QQ](https://img.shields.io/badge/QQ-EA1E28?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/qq.webp)
 [![微信](https://img.shields.io/badge/WeChat-1CD56C?style=for-the-badge&logo=wechat&logoColor=white)](https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/contact/wechat.webp)
 
